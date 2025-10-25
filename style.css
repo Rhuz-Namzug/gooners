@@ -1,0 +1,215 @@
+#box {
+    background-color: rgb(222, 222, 202);
+    border: 1px solid black;
+    margin: auto;
+    width: 80%;
+    height: 80%;
+}
+#banner {
+    font-size: large;
+    border: 1px solid black;
+    background-color: rgb(246, 246, 231);
+    text-align: center;
+}
+#menu {
+    background-color: beige;
+    padding: 10px;
+    border: 1px solid black;
+}
+#menu ul {
+    padding-right: 25px;
+    text-align: center;
+    list-style-type: none;
+}
+#menu ul li{
+    padding-left: 15px;
+    display: inline-block;
+}
+#menu ul li a{
+    text-decoration: none;
+    color: black;
+}
+#menu ul li a:hover{
+    color: black;
+    text-decoration: underline;
+    font-weight: bolder;
+    font-size: large;
+}
+#menu ul li:hover{
+   cursor: pointer;
+}
+#body {
+    width: 97.4%;
+    border: 1px solid black;
+    height: 350px;
+    padding: 10px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+#sq{
+    border: 1px solid black;
+    float: left;
+    width: 300px;
+    height: 200px;
+}
+#bois {
+    float: right;
+    border: 1px solid black;
+    width: 150px;
+    height: 200px;
+}
+#body ul li {
+    text-align: left;
+    font-weight: bold;
+}
+#karl{
+    background-color: gray;
+    border: 2px solid black;
+    width: 100%;
+    height: auto;
+}
+#karl tr td {
+    border: 3px solid black;
+    text-align: center;
+}
+#karl img {
+    height: 200px;
+    width: 150px;
+}
+#karl tr td a{
+    color: black;
+    text-decoration: none;
+}
+#karl tr td a:hover{
+    color: rgb(0, 234, 255);
+    text-decoration: underline;
+    font-weight: bolder;
+    font-size: large;
+}
+#deon{
+    background-color: pink;
+    border: 2px solid black;
+    width: 100%;
+    height: auto;
+}
+#deon tr td {
+    border: 3px solid black;
+    text-align: center;
+}
+#deon img {
+    height: 200px;
+    width: 150px;
+}
+#deon tr td a{
+    color: black;
+    text-decoration: none;
+}
+#deon tr td a:hover{
+    color: rgb(0, 234, 255);
+    text-decoration: underline;
+    font-weight: bolder;
+    font-size: large;
+}
+#zed{
+    background-color: green;
+    border: 2px solid black;
+    width: 100%;
+    height: auto;
+}
+#zed tr td {
+    border: 3px solid black;
+    text-align: center;
+}
+#zed img {
+    height: 200px;
+    width: 150px;
+}
+#zed tr td a{
+    color: black;
+    text-decoration: none;
+}
+#zed tr td a:hover{
+    color: rgb(0, 234, 255);
+    text-decoration: underline;
+    font-weight: bolder;
+    font-size: large;
+}
+#daisy{
+    background-color: purple;
+    border: 2px solid black;
+    width: 100%;
+    height: auto;
+}
+#daisy tr td {
+    border: 3px solid black;
+    text-align: center;
+}
+#daisy img {
+    height: 200px;
+    width: 150px;
+}
+#daisy tr td a{
+    color: black;
+    text-decoration: none;
+}
+#daisy tr td a:hover{
+    color: rgb(0, 234, 255);
+    text-decoration: underline;
+    font-weight: bolder;
+    font-size: large;
+}
+#cyrus{
+    background-color: red;
+    border: 2px solid black;
+    width: 100%;
+    height: auto;
+}
+#cyrus tr td {
+    border: 3px solid black;
+    text-align: center;
+}
+#cyrus img {
+    height: 200px;
+    width: 150px;
+}
+#cyrus tr td a{
+    color: black;
+    text-decoration: none;
+}
+#cyrus tr td a:hover{
+    color:rgb(0, 234, 255);
+    text-decoration: underline;
+    font-weight: bolder;
+    font-size: large;
+}
+#rhuzl{
+    background-color: blue;
+    border: 2px solid black;
+    width: 100%;
+    height: auto;
+}
+#rhuzl tr td {
+    border: 3px solid black;
+    text-align: center;
+}
+#rhuzl img {
+    height: 200px;
+    width: 150px;
+}
+#rhuzl tr td a{
+    color: black;
+    text-decoration: none;
+}
+#rhuzl tr td a:hover{
+    color: rgb(0, 234, 255);
+    text-decoration: underline;
+    font-weight: bolder;
+    font-size: large;
+}
+fieldset tr td {
+    font-size: 15px;
+}
+button {
+    float: right;   
+}
